@@ -1,0 +1,17 @@
+{
+  "id": "team09",
+  "title": "هتل",
+  "title_en": "Hotel",
+  "members": [
+    {
+      "name": "Nikan Rajabi",
+      "student_id": "40231019",
+      "github": "niiknn"
+    },
+    {
+      "name": "Sadaf Moradi",
+      "student_id": "40231049",
+      "github": "itssadafmoradi"
+    }
+  ]
+}
